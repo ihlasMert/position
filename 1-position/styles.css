@@ -1,0 +1,28 @@
+body {
+  background-color: #f5e3e7;
+  color: #4a262f;
+  font-family: Futura;
+  padding: 20px;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+article {
+  width: 60%;
+  margin: 0px auto;
+}
+
+img {
+  width: 70%;
+  position: fixed;
+  top: 54px;
+  left: 10px;
+}
+
+.address {
+  font-style: italic;
+  font-size: 12px;
+  margin-top: -15px;
+}
