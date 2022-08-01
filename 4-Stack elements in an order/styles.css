@@ -1,0 +1,35 @@
+* {
+    font-family: Futura;
+    color: white;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+#card1, #card2, #card3 {
+    width: 200px;
+    height: 200px;
+}
+
+#card1 {
+    position: relative;
+    top: 200px;
+    left: 20px;
+    background-color: #9bccdd;
+    z-index: 3;
+}
+
+#card2 {
+    position: absolute;
+    top: 6px;
+    left: 10px;
+    background-color: #58badd;
+    z-index: -1;
+}
+
+#card3 {
+    position: fixed;
+    top: 10px;
+    left: 100px;
+    background-color: #00a1e0;
+    z-index: 1;
+}
