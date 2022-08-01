@@ -1,0 +1,21 @@
+div {
+  font-family: Futura;
+  font-size: 2em;
+  background-color: #ff4c65;
+  color: white;
+  width: 200px;
+  height: 200px;
+  border-radius: 3px;
+  margin: 1px;
+  text-align: center;
+  margin: 20px;
+  float: left;
+  position: fixed;
+}
+img {
+  width: 70%;
+  height: 70%;
+  display: flex;
+
+/*   margin: 30px 10px 30px 10px; */
+}
